@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwEngHomework", "SwEngHomew
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwEngHomework.Tests", "SwEngHomework.Tests\SwEngHomework.Tests.csproj", "{6A5DA7DD-55B7-469C-B1E4-368B292E61D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwEngHomework.WebApp", "SwEngHomework.WebApp\SwEngHomework.WebApp.csproj", "{14D4916A-FB4E-4AD5-B384-4AD0A8790210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwEngHomework.WebApp", "SwEngHomework.WebApp\SwEngHomework.WebApp.csproj", "{14D4916A-FB4E-4AD5-B384-4AD0A8790210}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

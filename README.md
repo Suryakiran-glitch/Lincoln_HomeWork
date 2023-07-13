@@ -27,7 +27,8 @@ Range: 12068.23
 ```
 
 ## 2. Commissions
-A financial firm pays commissions to advisors based on seniority and account fees. An account fee is the present value of the account multiplied by [basis points](http://www.investopedia.com/terms/b/basispoint.asp) in a tiered structure:
+A financial firm pays commissions to advisors based on seniority and account fees. An account fee is the present value of the account multiplied by [basis points](http://www.investopedia.com/terms/b/basispoint.asp)
+in a tiered structure:
 
 * less than $50,000 = 5 bps
 * greater than or equal to $50,000 = 6 bps

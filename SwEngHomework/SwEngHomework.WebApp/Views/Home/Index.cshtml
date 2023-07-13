@@ -2,19 +2,49 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center"">
+<div class="text-center">
     <h3 class="display-4">Hello and Welcome!</h3>
     <p>Welcome to the WebApp portion of the homework assignment.  For directions, please consult the README.md</p>
-    <hr /> 
-    
+    <hr />
+
     <div>
-        <h4> <i>DateTime goes here!</i> </h4>
+        <h4> <i>@ViewBag.utcTime</i> </h4>
     </div>
 
-    <i>Link goes here when the minute is event.</i>
+   @if(ViewBag.Minutes % 2 == 0) {
+    
+    <i><a href="/Other/EvenMinute">Even Minute</a></i>
+    
+
+   }
 
     <hr />
     <div>
         Thank you for very much for taking the time to complete this part of the homework assignment!
     </div>
 </div>
+
+
+
+<script>
+//var loadTime = window.performance.timing.domContentLoadedEventEnd - window.performance.timing.navigationStart;
+//console.log(Math.abs(loadTime/1000));
+
+    const entries = performance.getEntriesByType("navigation");
+    entries.forEach((entry) => {
+        const domContentLoadedTime =
+            entry.domContentLoadedEventEnd - entry.domContentLoadedEventStart;
+
+            if(domContentLoadedTime/1000 < 30 ){
+
+            }
+            else{
+
+            }
+        console.log(
+            `${entry.name}: DOMContentLoaded processing time: ${domContentLoadedTime}ms`,
+        );
+    });
+
+    
+</script>

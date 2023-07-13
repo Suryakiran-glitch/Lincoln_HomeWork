@@ -1,0 +1,17 @@
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\bin\Debug\net6.0\SwEngHomework.deps.json
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\bin\Debug\net6.0\SwEngHomework.dll
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\bin\Debug\net6.0\SwEngHomework.pdb
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.AssemblyInfo.cs
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.dll
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\refint\SwEngHomework.dll
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.pdb
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\ref\SwEngHomework.dll
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\bin\Debug\net6.0\SwEngHomework.exe
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\bin\Debug\net6.0\SwEngHomework.runtimeconfig.json
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.genruntimeconfig.cache
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\dotnet-homework-20230712T180539Z-001\dotnet-homework\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.csproj.CopyComplete

@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
 using SwEngHomework.WebApp.Models;
 using System.Diagnostics;
+using System.Globalization;
 
 namespace SwEngHomework.WebApp.Controllers
 {
@@ -15,9 +17,13 @@ namespace SwEngHomework.WebApp.Controllers
 
         public IActionResult Index()
         {
+            TimeSpan utcTime = DateTime.Now.TimeOfDay;
+            ViewBag.utcTime = utcTime;
+            ViewBag.Minutes = utcTime.Minutes;
             return View();
         }
 
+        [Route("/home/privacy")]
         public IActionResult Privacy()
         {
             return View();
@@ -28,5 +34,7 @@ namespace SwEngHomework.WebApp.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+      
     }
 }
